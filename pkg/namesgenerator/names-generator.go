@@ -49,11 +49,13 @@ var (
 		"kickass",
 		"lonely",
 		"loving",
+		"lovely",
 		"mad",
 		"modest",
 		"naughty",
 		"nauseous",
 		"nostalgic",
+		"notorious",
 		"pedantic",
 		"pensive",
 		"prickly",
@@ -73,6 +75,7 @@ var (
 		"thirsty",
 		"tiny",
 		"trusting",
+		"wiry",
 	}
 
 	// Docker, starting from 0.7.x, generates names from notable scientists and hackers.
@@ -380,7 +383,10 @@ var (
 
 		// Ambroise Pare invented modern surgery. https://en.wikipedia.org/wiki/Ambroise_Par%C3%A9
 		"pare",
-
+		
+		// Blaise Pascal was a mathmetician and one of two inventors of a mechanical calculator. The programming language, Pascal, is named after him - https://en.wikipedia.org/wiki/Blaise_Pascal
+		"pascal",
+		
 		// Louis Pasteur discovered vaccination, fermentation and pasteurization. https://en.wikipedia.org/wiki/Louis_Pasteur.
 		"pasteur",
 
@@ -503,6 +509,9 @@ var (
 
 		// Ada Yonath - an Israeli crystallographer, the first woman from the Middle East to win a Nobel prize in the sciences. https://en.wikipedia.org/wiki/Ada_Yonath
 		"yonath",
+		
+		//Tu Youyou - she is best known for discovering artemisinin and dihydroartemisinin, used to treat malaria - https://en.wikipedia.org/wiki/Tu_Youyou
+		"youyou",
 	}
 )
 
